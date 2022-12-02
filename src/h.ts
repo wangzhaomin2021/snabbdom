@@ -1,3 +1,4 @@
+// @wzm 2022-12-2
 import { vnode, VNode, VNodeData } from "./vnode";
 import * as is from "./is";
 
