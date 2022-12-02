@@ -1,3 +1,4 @@
+// @wzm 2022-12-2
 export const array = Array.isArray;
 export function primitive(s: any): s is string | number {
   return (
